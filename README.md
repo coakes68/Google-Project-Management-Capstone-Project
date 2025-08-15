@@ -39,7 +39,7 @@ The [impact report](Sauce-Spoon-Project-Impact-Report.pdf) is a presentation tha
 The [personal closing](Personal-Closing-Report.pdf) report is a document that reflects on the individual's experience and accomplishments during the project. It includes a summary of key accomplishments, lessons learned, and next steps, as well as personal goals and an executive summary.
 
 ### Week 2 - Historical Project Plan - Gantt Chart
-The [Gantt Chart](Week-2---Historical-Project-Plan---Gantt-Chart.pdf) is a Gantt Chart that shows a point in time reference to the project timeline.
+The [Gantt Chart](Week-2-Historical-Project-Plan-Gantt-Chart.pdf) is a Gantt Chart that shows a point in time reference to the project timeline.
 
 ### Week 4 - Sauce & Spoon Company OKRs
 The [Sauce & Spoon Company OKRs](Week-4-Sauce-&-Spoon-Company-OKRs.pdf) is a list Objectives and Key Results for the project.
