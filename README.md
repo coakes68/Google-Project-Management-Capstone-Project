@@ -1,6 +1,6 @@
 ## Google Project Management Capstone: Sauce & Spoon Project Documentation
 Overview
-This repository contains all the documentation for the Sauce & Spoon project, which was a simulation completed as part of the Google Project Management Capstone coursework. The project involved the rollout of tabletop menu tablets in the bar area at two of the restaurant's locations in order to improve operations and meet the rising demand of customers.
+This repository contains all the documentation for the Sauce & Spoon project, which was a simulation completed as part of the Google Project Management Capstone coursework which is part of the [Google Project Management Professional: Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-project-management). The project involved the rollout of tabletop menu tablets in the bar area at two of the restaurant's locations in order to improve operations and meet the rising demand of customers.
 
 ## Table of Contents
 1. [Project Charter](#project-charter)  
