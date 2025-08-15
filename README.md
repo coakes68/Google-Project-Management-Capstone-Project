@@ -7,7 +7,7 @@ This repository contains all the documentation for the Sauce & Spoon project, wh
 2. [Stakeholder Analysis](#stakeholder-analysis)  
 3. [Project Plan](#project-plan)  
 4. [Evaluation Presentation](#evaluation-presentation)  
-5. [Retrospective Review](#retrospectve-review)  
+5. [Retrospective Review](#retrospective-review)  
 6. [Project Closeout Report](#project-closeout-report)  
 7. [Impact Report](#impact-report)  
 8. [Personal Closing Report](#personal-closing-report)
