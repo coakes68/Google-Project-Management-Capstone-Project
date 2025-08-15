@@ -12,7 +12,7 @@ This repository contains all the documentation for the Sauce & Spoon project, wh
 7. [Impact Report](#impact-report)  
 8. [Personal Closing Report](#personal-closing-report)
 9. [Week 2 - Historical Project Plan - Gantt Chart](#week-2---historical-project-plan---gantt-chart)
-10. [Week 4 - Sauce & Spoon Company OKRs]
+10. [Week 4 - Sauce & Spoon Company OKRs](#week-4---sauce-&-spoon-company-okrs)
 
 ### Project Charter
 The [project charter](Sauce-Spoon-Project-Charter.pdf) documents the scope, goals, and stakeholders of the project. It also outlines the resources and timeline needed to achieve the project's objectives.
