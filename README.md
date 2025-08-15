@@ -11,7 +11,7 @@ This repository contains all the documentation for the Sauce & Spoon project, wh
 6. [Project Closeout Report](project-closeout-report)  
 7. [Impact Report](impact-report)  
 8. [Personal Closing Report](personal-closing-report)
-9. [Week 2 - Historical Project Plan - Gantt Chart](Week-2---Historical-Project-Plan---Gantt-Chart)
+9. [Week 2 - Historical Project Plan - Gantt Chart](Week-2-Historical-Project-Plan-Gantt-Chart)
 10. [Week 4 - Sauce & Spoon Company OKRs]
 
 ### Project Charter
@@ -38,7 +38,7 @@ The [impact report](Sauce-Spoon-Project-Impact-Report.pdf) is a presentation tha
 ### Personal Closing Report
 The [personal closing](Personal-Closing-Report.pdf) report is a document that reflects on the individual's experience and accomplishments during the project. It includes a summary of key accomplishments, lessons learned, and next steps, as well as personal goals and an executive summary.
 
-### Week 2 - Historical Project Plan - Gantt Chart
+### Week 2 Historical Project Plan Gantt Chart
 The [Gantt Chart](Week-2-Historical-Project-Plan-Gantt-Chart.pdf) is a Gantt Chart that shows a point in time reference to the project timeline.
 
 ### Week 4 - Sauce & Spoon Company OKRs
